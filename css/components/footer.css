@@ -1,0 +1,24 @@
+.footer {
+  text-align: center;
+  padding: 18px;
+  background-size: cover;
+}
+
+.footer a {
+  font-size: 32px;
+  font-weight: lighter;
+  color: #DA7635;
+  letter-spacing: 16px;
+  transition: 0.3s;
+}
+
+.footer a:hover {
+  color: #FFEEDB;
+}
+
+.footer p {
+  font-size: 16px;
+  color: #FFEEDB;
+  font-weight: lighter;
+  opacity: 0.8;
+}

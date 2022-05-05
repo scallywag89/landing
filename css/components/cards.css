@@ -1,0 +1,19 @@
+.cards_container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  padding: 24px;
+  border-radius: 4px;
+  text-align: center;
+  border: 1px solid #DB995A;
+  background-color: #DB995A;
+}
+
+.card img {
+  height: 100px;
+}
